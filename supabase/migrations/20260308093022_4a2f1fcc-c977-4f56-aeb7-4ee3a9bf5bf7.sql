@@ -1,0 +1,1 @@
+DELETE FROM employees WHERE id = 'adminmmhdvbam' AND auth_user_id IS NULL;

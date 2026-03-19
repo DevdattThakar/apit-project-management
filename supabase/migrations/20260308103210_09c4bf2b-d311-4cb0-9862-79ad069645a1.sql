@@ -1,0 +1,1 @@
+ALTER TABLE public.projects ADD COLUMN IF NOT EXISTS po_documents jsonb DEFAULT '[]'::jsonb;
